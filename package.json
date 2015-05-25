@@ -1,0 +1,23 @@
+{
+  "name": "react-todo-app",
+  "version": "0.0.0",
+  "description": "A small TODO demo application using React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SEN",
+  "license": "MIT",
+  "dependencies": {
+    "flummox": "^4.0.0-alpha2",
+    "react": "^0.13.3"
+  },
+  "devDependencies": {
+    "babel": "^5.4.7",
+    "babelify": "^6.1.1",
+    "browserify": "^10.2.1",
+    "gulp": "^3.8.11",
+    "gulp-browserify": "^0.5.1",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
